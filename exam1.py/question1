@@ -1,0 +1,9 @@
+a = 20
+b = 30
+
+if b < a:
+    print("b is greater than a")
+if b > a:
+    print(" b is not grearter than a")
+if b == a:
+    ("b and are equal")        
